@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Electrical Design Project 
 - 🌱 I’m currently learning **C++** and **discord.py** 
-- 👯 I’m looking to collaborate on **Genshin Wishing Simulator** 
+- 👯 I’m collaborating on **fireworkDisplay.py** for the UNC Charlotte robotics team! 
 - 📫 How to reach me:  
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/apotatoa)  [<img src='https://user-images.githubusercontent.com/93800822/222635304-b43e8fbb-c3b2-4fea-a52f-5b700bcda8ca.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/lsbityak/)  
