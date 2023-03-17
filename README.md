@@ -7,5 +7,4 @@
 - 👯 I’m collaborating on **fireworkDisplay.py** for the UNC Charlotte robotics team! 
 - 📫 How to reach me:  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/apotatoa)  [<img src='https://user-images.githubusercontent.com/93800822/222635304-b43e8fbb-c3b2-4fea-a52f-5b700bcda8ca.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/lsbityak/)  
-
+[<img src='https://user-images.githubusercontent.com/93800822/225780338-e77a3ff4-1060-45b3-8f02-c14a86940f78.svg' alt='github' height='40'>](https://github.com/apotatoa)  [<img src='https://user-images.githubusercontent.com/93800822/222635304-b43e8fbb-c3b2-4fea-a52f-5b700bcda8ca.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/lsbityak/)  
