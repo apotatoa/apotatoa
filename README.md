@@ -2,8 +2,8 @@
 # <p align=center> Hello 👋, my name is Luke </p>
 **I am a Computer Engineering student at NC State**
 
-- 🔭 I’m currently working on an Electrical Design Project 
-- 🌱 I’m currently learning **Golang** and **KiCAD** 
+- 🔭 I’m currently working on an Assembly Programming Project 
+- 🌱 I’m currently learning **Golang** and **LC-3 Assembly** 
 - 👯 I’m collaborating on **Game Tycoon** with <a href='https://github.com/FireImpossible'>**FireImpossible**</a>!
 - 📫 How to reach me:  
 
